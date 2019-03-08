@@ -4,10 +4,10 @@
 
 | 序号 | 项目 | 任务 | 紧急程度 | 难易程度 | 开发者 |
 | :------: | :------: | :------ | ------ | ------ | :------: |
-| 1 | jseckill | [保存秒杀成功的订单到MySQL](#保存秒杀成功的订单到MySQL) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 待领取 |
-| 2 | jseckill | [用户登录、注册](#用户登录_注册) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | [ErCargo](https://github.com/ErCargo) |
-| 3 | distarch | [分布式、高并发代码](#分布式_高并发代码) | ⭐ | ⭐⭐⭐⭐ | 待领取 |
-| 4 | microsvc | [Spring Cloud 2.x构建微服务系统](#SpringCloud2_x构建微服务系统) | ⭐⭐⭐ | ⭐⭐⭐ | [liushaoming](https://github.com/liushaoming) |
+| 1 | [jseckill](https://github.com/liushaoming/jseckill) | [保存秒杀成功的订单到MySQL](#保存秒杀成功的订单到MySQL) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 待领取 |
+| 2 | [jseckill](https://github.com/liushaoming/jseckill) | [用户登录、注册](#用户登录_注册) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | [ErCargo](https://github.com/ErCargo) |
+| 3 | [distarch](https://github.com/liushaoming/distarch) | [分布式、高并发代码](#分布式_高并发代码) | ⭐ | ⭐⭐⭐⭐ | 待领取 |
+| 4 | [microsvc](https://github.com/liushaoming/microsvc) | [Spring Cloud 2.x构建微服务系统](#SpringCloud2_x构建微服务系统) | ⭐⭐⭐ | ⭐⭐⭐ | [liushaoming](https://github.com/liushaoming) |
 
 
 ### 保存秒杀成功的订单到MySQL
@@ -42,3 +42,18 @@ GitHub [liushaoming/servicesvc](https://github.com/liushaoming/servicesvc)
 由于Spring Cloud 2.X比1.X更新了很多地方。 比如弃用Eureka, 用Spring Cloud Consul代替它。 用Spring Cloud Gateway取代ZUUL。
 (Netflix也在边缘化Hystrix等).  目前看到网上代码大多基于Spring Cloud 1.X。  我们需要紧跟Spring Cloud官方的步伐。于是，我启动
 了<code>servicesvc</code>项目。
+
+**欢迎广大程序员加入开源软件的开发**，无论你是一个小白，菜鸟，还是一个大佬，甚至大神。这里都
+能找到，或者新建一个难易程度适合你的项目。
+
+提高广大程序员的技术水平是我们开源的初衷和目的！
+
+
+## 联系我们
+加QQ群讨论 
+<br/>
+![](doc/image/group-qrcode.png)
+
+微信公众号
+
+![](doc/image/public-account.jpg)
