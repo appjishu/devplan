@@ -5,9 +5,9 @@
 | 序号 | 项目 | 任务 | 紧急程度 | 难易程度 | 开发者 |
 | :------: | :------: | :------ | ------ | ------ | :------: |
 | 1 | jseckill | [保存秒杀成功的订单到MySQL](#保存秒杀成功的订单到MySQL) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 待领取 |
-| 2 | jseckill | [用户登录、注册](#用户登录|注册) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | [ErCargo](https://github.com/ErCargo) |
-| 3 | distarch | [分布式、高并发代码](#分布式、高并发代码) | ⭐ | ⭐⭐⭐⭐ | 待领取 |
-| 4 | microsvc | [Spring Cloud 2.x构建微服务系统](#Spring+Cloud+2.x构建微服务系统) | ⭐⭐⭐ | ⭐⭐⭐ | [liushaoming](https://github.com/liushaoming) |
+| 2 | jseckill | [用户登录、注册](#用户登录注册) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | [ErCargo](https://github.com/ErCargo) |
+| 3 | distarch | [分布式、高并发代码](#分布式高并发代码) | ⭐ | ⭐⭐⭐⭐ | 待领取 |
+| 4 | microsvc | [Spring Cloud 2.x构建微服务系统](#SpringCloud2_x构建微服务系统) | ⭐⭐⭐ | ⭐⭐⭐ | [liushaoming](https://github.com/liushaoming) |
 
 
 ### 保存秒杀成功的订单到MySQL
@@ -19,7 +19,7 @@ GitHub [liushaoming/jseckill](https://github.com/liushaoming/jseckill)
 
 注意： RabbitMQ采用生产端confirm并消费端手动应答的方式来确保不丢消息。
 
-### 用户登录|注册
+### 用户登录注册
 GitHub [liushaoming/jseckill](https://github.com/liushaoming/jseckill)
 
 认证机制: userId+token认证.     
@@ -28,14 +28,14 @@ GitHub [liushaoming/jseckill](https://github.com/liushaoming/jseckill)
 
 技术上采用[fpassport](https://github.com/liushaoming/fpassport) 框架来实现.
 
-### 分布式、高并发代码
+### 分布式高并发代码
 GitHub [liushaoming/distarch](https://github.com/liushaoming/distarch)
 
 简介:
 从自己工作中总结出来的高并发、高可用的技术积累，提炼出针对分布式场景的实现代码， 比如分布式锁的实现，比如ThreadLocal在各种中间件Connector
 上的应用代码等。
 
-### Spring Cloud 2.X构建微服务系统
+### SpringCloud2_x构建微服务系统
 GitHub [liushaoming/servicesvc](https://github.com/liushaoming/servicesvc)
 
 简介:
